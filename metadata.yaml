@@ -1,0 +1,29 @@
+_repo: Sokrateen-puolustuspuhe_57085
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Aminoff, K. G.
+    gutenberg_agent_id: '49185'
+    url: http://www.gutenberg.org/2009/agents/49185
+creator:
+  author:
+    agent_name: Plato
+    alias: Πλάτων
+    birthdate: -428
+    deathdate: -348
+    gutenberg_agent_id: '93'
+    url: http://www.gutenberg.org/2009/agents/93
+    wikipedia: http://en.wikipedia.org/wiki/Plato
+description: ''
+gutenberg_issued: '2018-05-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '57085'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Sokrateen puolustuspuhe
+url: http://www.gutenberg.org/ebooks/57085
